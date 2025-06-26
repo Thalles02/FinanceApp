@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_filter_all"
+        android:title="Todas" />
+    <item
+        android:id="@+id/menu_filter_income"
+        android:title="Receitas" />
+    <item
+        android:id="@+id/menu_filter_expense"
+        android:title="Despesas" />
+</menu>
+
